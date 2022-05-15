@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/vijay-radhakrishnan-0784931aa/](https://www.linkedin.com/in/vijay-radhakrishnan-0784931aa/)
 
-- ⚡ Fun fact **I think i now only 40% of Programming Knowledge**
+- ⚡ Fun fact **I think i now only 40% of Programming Skills**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
