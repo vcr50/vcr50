@@ -1,4 +1,6 @@
 <h1 align="center">Hi 👋, I'm VIJAY</h1>
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vcr369&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vcr50&label=Profile%20views&color=0e75b6&style=flat" alt="vcr50" /> </p>
