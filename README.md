@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm VIJAY</h1>
-<h2 align="center">My Fules is Music</h2>
+<h2 align="center">Music is My First Love</h2>
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=vcr369&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 <h3 align="center">A passionate Web developer from India</h3>
