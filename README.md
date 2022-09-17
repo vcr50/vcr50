@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/@vcr369" target="blank"><img src="https://img.shields.io/twitter/follow/@vcr369?logo=twitter&style=for-the-badge" alt="@vcr369" /></a> </p>
 
-- 🔭 I’m currently working on **News Tracker Application----- NewsTrackerApplication67GP----collaborate with IBM**
+- 🔭 I’m currently working on **News Tracker Application---------collaborate with IBM**
 
 - 🌱 I’m currently learning **Nodejs,React,Angular,Git**
 
