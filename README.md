@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VIJAY</h1>
 <h2 align="center">Music is My First Love</h2>
-<a href="https://ibb.co/9nDkXBF"><img src="https://i.ibb.co/9nDkXBF/astroworld-gif.gif" alt="astroworld-gif" border="0"></a>
+<a href="https://drive.google.com/file/d/13oHZkk4HYzIuXrygaLpeze9TcWX6BGLj/view?usp=sharing"><img src="https://drive.google.com/file/d/13oHZkk4HYzIuXrygaLpeze9TcWX6BGLj/view?usp=sharing" alt="astroworld-gif" border="0"></a>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vcr50&label=Profile%20views&color=0e75b6&style=flat" alt="vcr50" /> </p>
