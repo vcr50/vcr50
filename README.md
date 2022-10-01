@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm VIJAY</h1>
 <h2 align="center">Music is My First Love</h2>
-<a href="https://freeimage.host/i/LGvEDN"><img src="https://iili.io/LGvEDN.md.png" alt="LGvEDN.md.png" border="0" width="500" height="600"> </a>
+<a href="https://freeimage.host/i/LGvEDN"><img src="https://iili.io/LGvEDN.md.png" alt="LGvEDN.md.png" border="0" width="800" height="300"> </a>
 <h3 align="center">A passionate Web developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vcr50&label=Profile%20views&color=0e75b6&style=flat" alt="vcr50" /> </p>
