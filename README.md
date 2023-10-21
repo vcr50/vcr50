@@ -8,60 +8,40 @@
 </head>
 <body>
   <header>
-    <h1>Hi there, I'm Vijay 👋</h1>
+    <h1>Vijay</h1>
     <h2>Salesforce Developer</h2>
   </header>
 
   <div class="image-container">
-    <img src="https://github.com/vcr50/vcr50/assets/50842331/120ae6f1-3cf4-4154-a24c-febd11d997ed" alt="Profile Image" width="300" height="250">
+    <img src="your-profile-image-url" alt="Profile Image" width="300" height="250">
   </div>
 
-  <section class="profile-views">
-    <p>Profile Views: <span id="profile-views">Loading...</span></p>
-  </section>
-
-  <section class="github-trophies">
-    <div id="github-trophies">Loading...</div>
-  </section>
-
-  <section class="twitter-followers">
-    <p>
-      Twitter Followers:
-      <a href="https://twitter.com/vcr369" target="_blank">
-        <span id="twitter-followers">Loading...</span>
-      </a>
-    </p>
-  </section>
-
   <main>
-    <section class="current-projects">
-      <h3>Currently Working On</h3>
-      <p><strong>News Tracker Application in collaboration with IBM</strong></p>
-    </section>
-
-    <section class="learning">
-      <h3>Currently Learning</h3>
+    <section class="about-me">
+      <h3>About Me</h3>
       <p>
-        Node.js, React, Angular, Git
+        I am an accomplished Education Professional with a strong track record in the higher education sector. My proficiency spans a wide array of skills, including Salesforce, Apex, LWC & Aura, JavaScript, Visualforce, SOQL/SOSL, Python, web application development, and Database Management Systems.
+      </p>
+      <p>
+        I hold a Bachelor of Technology degree in Information Technology from the esteemed University College of Engineering, Villupuram.
       </p>
     </section>
 
-    <section class="projects-link">
-      <h3>My Portfolio</h3>
-      <p>Check out my projects at <a href="https://vjprofiles.pages.dev/">My Portfolio</a></p>
-    </section>
-
-    <section class="about-me">
-      <h3>About Me</h3>
-      <p>I'm a Salesforce Developer based in India. Feel free to ask me about web development or reach me via email at <a href="mailto:vcr0369@gmail.com">vcr0369@gmail.com</a>. Explore my professional journey on <a href="https://www.linkedin.com/in/vijay-radhakrishnan-0784931aa/">LinkedIn</a>.</p>
-      <p>Fun Fact: I believe I've mastered just about 40% of programming skills.</p>
+    <section class="skills">
+      <h3>Skills</h3>
+      <ul>
+        <li>Salesforce Development</li>
+        <li>Apex</li>
+        <li>LWC & Aura Components</li>
+        <li>JavaScript</li>
+        <li>Visualforce</li>
+        <li>SOQL/SOSL</li>
+        <li>Python</li>
+        <li>Web Application Development</li>
+        <li>Database Management Systems</li>
+      </ul>
     </section>
   </main>
-
-  <section class="blog-posts">
-    <h3>Blog Posts</h3>
-    <!-- Include your blog post feed here -->
-  </section>
 
   <footer>
     <h3>Connect with Me</h3>
