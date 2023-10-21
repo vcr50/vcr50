@@ -3,8 +3,8 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="styles.css">
   <title>Vijay - Salesforce Developer</title>
+  <link rel="stylesheet" href="styles.css">
 </head>
 <body>
   <header>
@@ -13,7 +13,7 @@
   </header>
 
   <div class="image-container">
-    <img src="https://github.com/vcr50/vcr50/assets/50842331/120ae6f1-3cf4-4154-a24c-febd11d997ed" alt="Profile Image">
+    <img src="https://github.com/vcr50/vcr50/assets/50842331/120ae6f1-3cf4-4154-a24c-febd11d997ed" alt="Profile Image" width="300" height="250">
   </div>
 
   <section class="profile-views">
