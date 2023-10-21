@@ -1,62 +1,75 @@
-<h1 align="center">Hi there, I'm Vijay 👋</h1>
-<h2 align="center">Salesforce Developer</h2>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>Vijay - Salesforce Developer</title>
+</head>
+<body>
+  <header>
+    <h1>Hi there, I'm Vijay 👋</h1>
+    <h2>Salesforce Developer</h2>
+  </header>
 
-<p align="center">
-  <img src="https://github.com/vcr50/vcr50/assets/50842331/120ae6f1-3cf4-4154-a24c-febd11d997ed" width="1100" height="250">
-</p>
+  <div class="image-container">
+    <img src="https://github.com/vcr50/vcr50/assets/50842331/120ae6f1-3cf4-4154-a24c-febd11d997ed" alt="Profile Image">
+  </div>
 
-<h3 align="center">Passionate Web Developer from India</h3>
+  <section class="profile-views">
+    <p>Profile Views: <span id="profile-views">Loading...</span></p>
+  </section>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=vcr50&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+  <section class="github-trophies">
+    <div id="github-trophies">Loading...</div>
+  </section>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=vcr50" alt="GitHub Trophies" />
-  </a>
-</p>
+  <section class="twitter-followers">
+    <p>
+      Twitter Followers:
+      <a href="https://twitter.com/vcr369" target="_blank">
+        <span id="twitter-followers">Loading...</span>
+      </a>
+    </p>
+  </section>
 
-<p align="left">
-  <a href="https://twitter.com/vcr369" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/vcr369?logo=twitter&style=for-the-badge" alt="Twitter Followers" />
-  </a>
-</p>
+  <main>
+    <section class="current-projects">
+      <h3>Currently Working On</h3>
+      <p><strong>News Tracker Application in collaboration with IBM</strong></p>
+    </section>
 
-- 🔭 I’m currently working on **News Tracker Application in collaboration with IBM**.
-- 🌱 I’m currently learning **Node.js, React, Angular, and Git**.
-- 👨‍💻 Check out my projects at [My Portfolio](https://vjprofiles.pages.dev/).
-- 💬 Ask me about **Web Development**.
-- 📫 How to reach me: Email me at vcr0369@gmail.com.
-- 📄 Explore my professional journey on [LinkedIn](https://www.linkedin.com/in/vijay-radhakrishnan-0784931aa/).
-- ⚡ Fun fact: I believe I've mastered just about 40% of programming skills.
+    <section class="learning">
+      <h3>Currently Learning</h3>
+      <p>
+        Node.js, React, Angular, Git
+      </p>
+    </section>
 
-### Blog Posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+    <section class="projects-link">
+      <h3>My Portfolio</h3>
+      <p>Check out my projects at <a href="https://vjprofiles.pages.dev/">My Portfolio</a></p>
+    </section>
 
-<h3 align="left">Connect with Me</h3>
-<p align="left">
-  <a href="https://codepen.io/vcr50" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="30" width="40" /></a>
-  <a href="https://dev.to/vcr50" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" /></a>
-  <a href="https://twitter.com/vcr369" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/vijay-radhakrishnan-0784931aa" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/linkedin-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <!-- Add more social links as needed -->
-</p>
+    <section class="about-me">
+      <h3>About Me</h3>
+      <p>I'm a Salesforce Developer based in India. Feel free to ask me about web development or reach me via email at <a href="mailto:vcr0369@gmail.com">vcr0369@gmail.com</a>. Explore my professional journey on <a href="https://www.linkedin.com/in/vijay-radhakrishnan-0784931aa/">LinkedIn</a>.</p>
+      <p>Fun Fact: I believe I've mastered just about 40% of programming skills.</p>
+    </section>
+  </main>
 
-<h3 align="left">Languages and Tools</h3>
-<p align="left">
-  <!-- List your programming languages, frameworks, and tools with appropriate icons -->
-</p>
+  <section class="blog-posts">
+    <h3>Blog Posts</h3>
+    <!-- Include your blog post feed here -->
+  </section>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vcr50&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+  <footer>
+    <h3>Connect with Me</h3>
+    <p class="social-links">
+      <!-- Add your social links with icons and interactivity here -->
+    </p>
+  </footer>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vcr50&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vcr50" alt="GitHub Streak" />
-</p>
+  <script src="scripts.js"></script>
+</body>
+</html>
