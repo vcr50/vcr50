@@ -1,3 +1,22 @@
+<h1 align="center" style="color: #0ff; text-shadow: 0 0 5px #0ff, 0 0 10px #0ff, 0 0 20px #0ff, 0 0 40px #0ff;">
+  Hi, I'm VJ! 🚀
+</h1>
+<imag src"" alt="agentforce" width="500" height="600">
 
-![rank](https://github.com/vcr50/vcr50/assets/50842331/d8a2c912-1f6c-4c12-a0cf-af89286d4ba5)
-I am an accomplished Education Professional with a strong track record in the higher education sector. My proficiency spans a wide array of skills, including Salesforce, Apex, LWC & Aura, JavaScript, Visualforce, SOQL/SOSL, Python, web application development, and Database Management Systems. I hold a Bachelor of Technology degree in Information Technology from the esteemed University College of Engineering, Villupuram
+<p align="center" style="color: #00ffff; font-size: 18px;">
+  Salesforce Developer | Future AI Engineer | Tech Explorer
+</p>
+
+<p align="center">
+  <a href="https://github.com/your-github-username" style="text-decoration: none; color: #0ff; font-weight: bold;">
+    GitHub
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://linkedin.com/in/your-linkedin" style="text-decoration: none; color: #0ff; font-weight: bold;">
+    LinkedIn
+  </a>
+  &nbsp;|&nbsp;
+  <a href="https://www.salesforce.com/trailblazer/vcr50" style="text-decoration: none; color: #0ff; font-weight: bold;">
+    Trailblazer
+  </a>
+</p>
